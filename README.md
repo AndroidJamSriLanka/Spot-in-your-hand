@@ -32,3 +32,7 @@ Select Country and Sport
 Loading data
 
 ![ScreenShot](https://github.com/AndroidJamSriLanka/Spot-in-your-hand/blob/master/UI/1_loading_data.PNG)
+
+Spinner for Choose country
+
+![ScreenShot](https://github.com/AndroidJamSriLanka/Spot-in-your-hand/blob/master/UI/3_Spinner_country_choose.PNG)
