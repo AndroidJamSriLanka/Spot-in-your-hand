@@ -22,13 +22,13 @@ https://skysportsapi.herokuapp.com/
 
 Log in
 
-![ScreenShot](https://github.com/AndroidJamSriLanka/Spot-in-your-hand/blob/master/UI_3_login.PNG)
+![ScreenShot](https://github.com/AndroidJamSriLanka/Spot-in-your-hand/blob/master/UI/3_login.PNG)
 
 Select Country and Sport
 
-![ScreenShot](https://github.com/AndroidJamSriLanka/Spot-in-your-hand/blob/master/UI_2_select_country_and_sport.PNG)
+![ScreenShot](https://github.com/AndroidJamSriLanka/Spot-in-your-hand/blob/master/UI/2_select_country_and_sport.PNG)
 
 
 Loading data
 
-![ScreenShot](https://github.com/AndroidJamSriLanka/Spot-in-your-hand/blob/master/UI_1_loading_data.PNG)
+![ScreenShot](https://github.com/AndroidJamSriLanka/Spot-in-your-hand/blob/master/UI/1_loading_data.PNG)
